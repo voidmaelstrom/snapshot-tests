@@ -1,0 +1,12 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders correctly 1`] = `
+<a
+  className="normal"
+  href="https://voidmaelstrom.github.io/phaser-projects/Pinball/index.html"
+  onMouseEnter={[Function]}
+  onMouseLeave={[Function]}
+>
+  Pinball
+</a>
+`;

@@ -2,7 +2,7 @@
 
 exports[`renders a snapshot 1`] = `
 <div
-  className="App pt-5"
+  className="App"
 >
   <div
     className="row"
@@ -53,5 +53,16 @@ exports[`renders a snapshot 1`] = `
       </div>
     </div>
   </div>
+  <p>
+    Play some pinball?
+  </p>
+  <a
+    className="normal"
+    href="https://voidmaelstrom.github.io/phaser-projects/Pinball/index.html"
+    onMouseEnter={[Function]}
+    onMouseLeave={[Function]}
+  >
+    Pinball
+  </a>
 </div>
 `;
