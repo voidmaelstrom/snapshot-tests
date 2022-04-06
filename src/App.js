@@ -1,6 +1,6 @@
 import './App.css'
 import GitHubCard from './GitHubCard/GitHubCard'
-import Link from './PinballGaneLink/Link'
+import Link from './PinballGameLink/Link'
 import Col from 'react-bootstrap/Col'
 import Row from 'react-bootstrap/Row'
 
